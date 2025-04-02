@@ -48,9 +48,3 @@
   fluent in english, with my native language being portuguese (brazilian) 
   
 </p>
-
-<p align="center">
-  
-![my usual music taste](https://spotify-recently-played-readme.vercel.app/api?user=22w4fhijluaooo4x64j3b2y6a) 
-
-</p>
