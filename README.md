@@ -40,8 +40,11 @@
 <p align="left">
   
   18y old, soon to be 19!!!
+  <br>
   first year of system analysis and development at [USJT](https://www.usjt.br/)
-  looking to constantly improve 
+  <br>
+  looking to constantly improve  
+  <br>
   fluent in english, with my native language being portuguese (brazilian) 
   
 </p>
