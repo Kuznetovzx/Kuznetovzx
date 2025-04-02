@@ -39,7 +39,7 @@
 
 <p align="left">18y old, soon to be 19!!!
   <br>
-  first year of system analysis and development at [USJT](https://www.usjt.br/)
+  first year of system analysis and development at [USJT](url)
   <br>
   looking to constantly improve 
   <br>
