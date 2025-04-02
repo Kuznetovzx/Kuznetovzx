@@ -43,7 +43,7 @@
   <br>
   first year of system analysis and development at [USJT](https://www.usjt.br/)
   <br>
-  looking to constantly improve  
+  looking to constantly improve
   <br>
   fluent in english, with my native language being portuguese (brazilian) 
   
