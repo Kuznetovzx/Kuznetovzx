@@ -44,7 +44,7 @@
 
 <p align="left">
   
-  18y old, soon to be 19!!!
+  19y old
   <br>
   first year of system analysis and development at [USJT](https://www.usjt.br/)
   <br>
